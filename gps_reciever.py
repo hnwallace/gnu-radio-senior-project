@@ -29,7 +29,7 @@ from gnuradio.qtgui import Range, RangeWidget
 from PyQt5 import QtCore
 import sip
 
-
+# I am a potat
 
 class bitsync(gr.top_block, Qt.QWidget):
 

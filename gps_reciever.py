@@ -9,6 +9,9 @@
 # Author: 19ana
 # GNU Radio version: 3.10.7.0
 
+# I am big potat
+
+
 from packaging.version import Version as StrictVersion
 from PyQt5 import Qt
 from gnuradio import qtgui
